@@ -25,11 +25,11 @@ Support Engineer,Client Tech Administrator,
 ## Hudson River Trading LLC
 `January '16 - Present`
 
-## 
-``
+## Martha Stewart Living Omnimedia
+`September '13 - January '16`
 
-##
-` '`
+## Cipriani USA
+`February '13 - August '13`
 
 ## Education
 `'05 - '10'`
