@@ -14,13 +14,13 @@ Support Engineer,Client Tech Administrator,
 ## Summary
 
 ## Expertise
-`Software`
 
-`Hardware`
+`Software`
 
 `Tools`
 
 `Operating Systems`
+MacOS 10.x, Windows 10, Debian, Ubuntu, PopOS
 
 ## Hudson River Trading LLC
 `January '16 - Present`
