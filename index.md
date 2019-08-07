@@ -3,7 +3,7 @@ layout: cv
 title: Elias Santiago 
 ---
 # Elias Santiago
-Support Engineer,Client Tech Administrator,
+Support Engineer, Client Tech Administrator
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/elias-santiago-82a34b55/">Linkedin</a>
@@ -33,4 +33,3 @@ MacOS 10.x, Windows 10, Debian, Ubuntu, PopOS
 
 ## Education
 `'05 - '10'`
-* 
